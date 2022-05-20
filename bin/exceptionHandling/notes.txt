@@ -1,0 +1,11 @@
+rollno	name
+1	    Arti
+2	   Swati
+3	   Rahul
+4	   Jack
+5   	Ganesh
+6   	Akshay
+7	   Arya
+8	   Anvi
+9	  Pooja
+10	  Mahesh
